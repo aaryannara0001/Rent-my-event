@@ -1,0 +1,249 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "slug": "cinematic-mandap-jaipur",
+      "title": "A Cinematic Mandap Under the Jaipur Sky",
+      "excerpt": "Gold drapery, 360° projection, and a 12-piece live ensemble — a wedding production years in the making.",
+      "content": "Three days in Jaipur. Eighteen tons of rigging. A handcrafted mandap lit by 240 fixtures synchronised to a custom score. This is how we approached one of the most ambitious luxury weddings of the season — from concept to show-call.",
+      "thumbnail": "/src/assets/show-wedding.jpg",
+      "platform": "instagram",
+      "category": "Weddings",
+      "tags": [
+        "wedding",
+        "mandap",
+        "luxury"
+      ],
+      "externalUrl": "https://instagram.com",
+      "status": "published",
+      "featured": true,
+      "views": 12400,
+      "createdAt": "2025-04-12T10:00:00.000Z"
+    },
+    {
+      "id": "p2",
+      "slug": "led-wall-summit-mumbai",
+      "title": "Curved LED Wall: Building a 40m Centerpiece",
+      "excerpt": "How we engineered a seamless 4K curved LED backdrop for a global tech summit in Mumbai.",
+      "content": "Three weeks of pre-production. A custom curved truss system. P2.5 modules colour-matched on-site. Here's the complete production breakdown.",
+      "thumbnail": "/src/assets/show-corporate.jpg",
+      "platform": "linkedin",
+      "category": "LED Walls",
+      "tags": [
+        "corporate",
+        "led",
+        "summit"
+      ],
+      "externalUrl": "https://linkedin.com",
+      "status": "published",
+      "featured": true,
+      "views": 8800,
+      "createdAt": "2025-04-22T10:00:00.000Z"
+    },
+    {
+      "id": "p3",
+      "slug": "stadium-lasers-arjit",
+      "title": "Choreographing 32 Lasers for a Stadium Tour",
+      "excerpt": "Designing a laser show that's safe, breathtaking, and perfectly timed to every drop.",
+      "content": "32 RGB lasers. 60,000 audience members. One show-call cue list. We unpack the lighting design philosophy behind a full stadium-scale tour.",
+      "thumbnail": "/src/assets/show-concert.jpg",
+      "platform": "instagram",
+      "category": "Concerts",
+      "tags": [
+        "concert",
+        "lasers",
+        "tour"
+      ],
+      "externalUrl": "https://instagram.com",
+      "status": "published",
+      "featured": true,
+      "views": 21500,
+      "createdAt": "2025-05-01T10:00:00.000Z"
+    },
+    {
+      "id": "p4",
+      "slug": "fashion-runway-bengaluru",
+      "title": "Runway, Reimagined: A Fashion Show in Light",
+      "excerpt": "A 60-meter mirrored runway, kinetic lighting, and a custom-built finale moment.",
+      "content": "Behind the scenes of a Bengaluru couture week show that pushed our kinetic rig further than any production before it.",
+      "thumbnail": "/src/assets/show-fashion.jpg",
+      "platform": "facebook",
+      "category": "Stage Design",
+      "tags": [
+        "fashion",
+        "stage",
+        "kinetic"
+      ],
+      "externalUrl": "https://facebook.com",
+      "status": "published",
+      "featured": false,
+      "views": 5400,
+      "createdAt": "2025-05-04T10:00:00.000Z"
+    },
+    {
+      "id": "p5",
+      "slug": "intimate-ceremony-goa",
+      "title": "An Intimate Ceremony on a Goan Cliff",
+      "excerpt": "Soft pastels, ambient string lighting, and a sunset that did most of the work.",
+      "content": "Sixty guests. One cliffside. A production approach designed to disappear into the landscape.",
+      "thumbnail": "/src/assets/gallery-1.jpg",
+      "platform": "instagram",
+      "category": "Weddings",
+      "tags": [
+        "wedding",
+        "destination",
+        "intimate"
+      ],
+      "externalUrl": "https://instagram.com",
+      "status": "published",
+      "featured": false,
+      "views": 7600,
+      "createdAt": "2025-05-06T10:00:00.000Z"
+    },
+    {
+      "id": "p6",
+      "slug": "brand-launch-delhi",
+      "title": "A Brand Launch That Felt Like a Premiere",
+      "excerpt": "Tier-1 line array, an immersive product reveal, and a custom 9-screen LED façade.",
+      "content": "How we transformed a hotel ballroom into a cinema-grade product reveal experience for a global brand.",
+      "thumbnail": "/src/assets/gallery-2.jpg",
+      "platform": "linkedin",
+      "category": "Corporate",
+      "tags": [
+        "corporate",
+        "launch",
+        "audio"
+      ],
+      "externalUrl": "https://linkedin.com",
+      "status": "published",
+      "featured": false,
+      "views": 4200,
+      "createdAt": "2025-05-08T10:00:00.000Z"
+    },
+    {
+      "id": "p7",
+      "slug": "festival-stage-lonavala",
+      "title": "A Modular Festival Stage in 72 Hours",
+      "excerpt": "Two stages, six bands, one production crew working around the clock.",
+      "content": "Our load-in/load-out playbook for a multi-stage music festival in Lonavala.",
+      "thumbnail": "/src/assets/gallery-3.jpg",
+      "platform": "facebook",
+      "category": "Concerts",
+      "tags": [
+        "festival",
+        "stage",
+        "music"
+      ],
+      "externalUrl": "https://facebook.com",
+      "status": "published",
+      "featured": false,
+      "views": 3100,
+      "createdAt": "2025-05-09T10:00:00.000Z"
+    },
+    {
+      "id": "p8",
+      "slug": "color-story-gradient-lighting",
+      "title": "Color Stories: Gradient Lighting & Emotional Arcs",
+      "excerpt": "How we use color temperature shifts to guide an audience through a 4-hour ceremony.",
+      "content": "A practical guide to designing lighting that supports — not competes with — your storytelling.",
+      "thumbnail": "/src/assets/gallery-4.jpg",
+      "platform": "instagram",
+      "category": "Lighting",
+      "tags": [
+        "lighting",
+        "design",
+        "color"
+      ],
+      "externalUrl": "https://instagram.com",
+      "status": "published",
+      "featured": false,
+      "views": 6700,
+      "createdAt": "2025-05-10T10:00:00.000Z"
+    },
+    {
+      "id": "p9",
+      "slug": "case-study-tech-summit",
+      "title": "Case Study: A 3-City Tech Summit Tour",
+      "excerpt": "Identical brand experience across Mumbai, Delhi, and Bengaluru — in 14 days.",
+      "content": "Logistics, crew planning, and the systems we built to ship a consistent show across three cities.",
+      "thumbnail": "/src/assets/gallery-5.jpg",
+      "platform": "linkedin",
+      "category": "Corporate",
+      "tags": [
+        "case-study",
+        "summit",
+        "tour"
+      ],
+      "externalUrl": "https://linkedin.com",
+      "status": "published",
+      "featured": false,
+      "views": 2900,
+      "createdAt": "2025-05-11T10:00:00.000Z"
+    },
+    {
+      "id": "p10",
+      "slug": "behind-the-decor-wedding",
+      "title": "Behind the Decor: 11,000 Stems in 9 Hours",
+      "excerpt": "A floral install timelapse, plus the rigging plan that made it possible.",
+      "content": "A backstage look at the install process for a luxury wedding floral takeover.",
+      "thumbnail": "/src/assets/gallery-6.jpg",
+      "platform": "facebook",
+      "category": "Weddings",
+      "tags": [
+        "wedding",
+        "decor",
+        "florals"
+      ],
+      "externalUrl": "https://facebook.com",
+      "status": "published",
+      "featured": false,
+      "views": 5800,
+      "createdAt": "2025-05-13T10:00:00.000Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "i1",
+      "name": "Anaya Kapoor",
+      "email": "anaya@studio.in",
+      "phone": "+91 98 1100 2233",
+      "eventType": "Wedding",
+      "message": "Looking for a destination setup in Udaipur, December.",
+      "date": "2025-12-14",
+      "status": "new",
+      "createdAt": "2025-05-12T08:00:00.000Z"
+    },
+    {
+      "id": "i2",
+      "name": "Rohan Mehta",
+      "email": "rohan@nimbus.co",
+      "phone": "+91 98 7766 5544",
+      "eventType": "Corporate",
+      "message": "3-city brand summit. Need full AV + LED.",
+      "date": "2025-09-03",
+      "status": "new",
+      "createdAt": "2025-05-11T08:00:00.000Z"
+    },
+    {
+      "id": "i3",
+      "name": "Sonia Iyer",
+      "email": "sonia@artelive.com",
+      "phone": "+91 98 5544 1122",
+      "eventType": "Concert",
+      "message": "Festival stage rental for a 2-day event.",
+      "date": "2025-11-22",
+      "status": "completed",
+      "createdAt": "2025-05-09T08:00:00.000Z"
+    }
+  ],
+  "settings": {
+    "publicEmail": "hello@rentmyevent.com",
+    "phone": "9625340109",
+    "address": "Pan-India Coverage",
+    "instagram": "https://instagram.com/rentmyevent",
+    "facebook": "https://facebook.com/rentmyevent",
+    "linkedin": "https://linkedin.com/company/rentmyevent",
+    "studioName": "Rent My Event",
+    "tagline": "Plan smartly. Organize perfectly. Execute flawlessly."
+  }
+}
